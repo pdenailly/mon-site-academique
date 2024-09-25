@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Paul de Nailly</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Deep probabilistic forecasting of multivariate count data with &#39;sums and shares&#39; distributions. A case study on pedestrian counts in a multimodal transport hub</title>
+      <link>http://localhost:1313/publication/deep/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate count time series segmentation with &#39;sums and shares&#39; and Poisson lognormal mixture models: a comparative study using pedestrian flows within a multimodal transport hub</title>
+      <link>http://localhost:1313/publication/clustering/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What can we learn from 9 years of ticketing data at a major transport hub? A structural time series decomposition</title>
+      <link>http://localhost:1313/publication/decomposition/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/decomposition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

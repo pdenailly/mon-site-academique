@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul de Nailly</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul de Nailly</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Paul de Nailly</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Deep probabilistic forecasting of multivariate count data with &#39;sums and shares&#39; distributions. A case study on pedestrian counts in a multimodal transport hub</title>
+      <link>http://localhost:1313/publication/deep/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep probabilistic forecasting of count data in multimodal transport systems</title>
+      <link>http://localhost:1313/talk/tsl/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/tsl/</guid>
+      <description>&lt;p&gt;Predicting pedestrian flows in transportation areas is a major research topic that can be used to enrich passenger information for public transport passengers, who may thus better plan their trips. It can also be used by transport operators to regulate transport supply with regards to demand. Much of the work on user demand prediction focus on average predictions, and therefore cannot be used for uncertainty analysis.
+However, this uncertainty is particularly appropriate in the transportation domain, where the risk of poorly managed high demand is to be avoided.
+We propose the implementation of probabilistic prediction models of passenger flows in a major multimodal transportation hub with methods based on deep learning. These models are able to model uncertainty by relying on an abstraction of contextual data and by assuming output distributions.
+We implement a new probabilistic prediction model based on deep learning, adding to the literature associated with these models. Our model learns a latent representation of the input data with the help of a recurrent neural network, and then translates it into multi-point passenger flow predictions with a &amp;ldquo;sum and shares&amp;rdquo; distribution, encountered in the literature.
+We compare this model with others from the state of the art, using open source data and data on the La Défense hub case study. Our model seems to better perform in specific situations where data present regularities.&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/13bnIjhrBGK7wqkcwWuqihAbVG8BfL_3t/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multivariate count time series segmentation with &#39;sums and shares&#39; and Poisson lognormal mixture models: a comparative study using pedestrian flows within a multimodal transport hub</title>
+      <link>http://localhost:1313/publication/clustering/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prédiction probabiliste avec Python</title>
+      <link>http://localhost:1313/teaching/python/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/python/</guid>
+      <description>&lt;p&gt;Dans cette présentation, nous explorons un projet de prédiction probabiliste de séries temporelles multivariées en utilisant des modèles d&amp;rsquo;apprentissage profond. Le projet se concentre sur les données de mobilité pour prédire les mouvements futurs avec des incertitudes. Les modèles introduits utilisent une structure de type RNN qui projettent en sortie les paramètres de modèles de distributions (lois normales). Le cours associé au projet est disponible 
+.&lt;/p&gt;
+&lt;h2 id=&#34;projet-google-colab&#34;&gt;Projet Google Colab&lt;/h2&gt;
+&lt;p&gt;Le projet est disponible sur Google Colab et peut être consulté via le lien suivant :&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;Un code python disponible 
+ est nécessaire au projet.&lt;/p&gt;
+&lt;h2 id=&#34;description-du-projet&#34;&gt;Description du projet&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;objectif de ce projet est de démontrer comment utiliser les réseaux neuronaux récurrents (RNN) et d&amp;rsquo;autres modèles avancés pour la prédiction de séries temporelles. Voici les principales étapes couvertes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Préparation des données&lt;/strong&gt; : Traitement des séries temporelles multivariées.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modélisation&lt;/strong&gt; : Mise en œuvre des modèles probabilistes basés sur l&amp;rsquo;apprentissage profond.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Évaluation&lt;/strong&gt; : Analyse des performances des prédictions, y compris l&amp;rsquo;incertitude probabiliste.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;données&#34;&gt;Données&lt;/h2&gt;
+&lt;p&gt;Les données utilisées dans ce projet sont des comptages de traffic de vélos dans la ville de Paris, en plusieurs localisations.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applying a new &#39;sums and shares&#39; mixture model to pedestrian flows: the &#39;La Défense&#39; hub case study</title>
+      <link>http://localhost:1313/talk/etc/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/etc/</guid>
+      <description>&lt;iframe src=&#34;https://drive.google.com/file/d/1h8pgFrtIhZOZp1TnJAAonUuZmKCI8qtP/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A &#39;sums and shares&#39; mixture model to study pedestrian flows within a multimodal transport hub</title>
+      <link>http://localhost:1313/talk/tristan/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/tristan/</guid>
+      <description>&lt;p&gt;This work focuses on a multimodal transportation hub that attracts an average of 140,000 people on a typical week day (2019). Passenger flows tend to form transportation routes towards areas of interest. However, depending on the time of day, the period of the year, or local events, these flows do not necessarily go to or transit through the same places. Several sensing systems positioned at different count locations in the transport hub allow multivariate count data to be collected. Extracting information from these large sets of highly noisy count series is challenging since these series share common dynamics in response to specific events, but may also have their own dynamics due to more localized events. Our goal in this paper is to model these mobility multivariate time series through a set of mobility patterns, to obtain a synthetic vision which helps understanding how the transport hub operates, or to use as a basis for prediction work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What can we learn from 9 years of ticketing data at a major transport hub? A structural time series decomposition</title>
+      <link>http://localhost:1313/publication/decomposition/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A combined use of sensor count data and smart card data to study the flows of a multimodal transport hub</title>
+      <link>http://localhost:1313/talk/transit/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/transit/</guid>
+      <description>&lt;iframe src=&#34;https://drive.google.com/file/d/1TxWvQGL0X_NDcHP8ZUs5FCIjjggAaYsx/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

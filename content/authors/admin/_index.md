@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ph.D
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Paul de Nailly
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: de Nailly
+last_name: Paul
 
 # Status emoji
 status:
@@ -20,110 +20,108 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist reasercher/engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Gustave Eiffel University
+    url: https://www.univ-gustave-eiffel.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:paul.denailly@laposte.net'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pdenailly
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/paul-de-nailly-09398aa4/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=7rVlv0AAAAAJ&hl=fr
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6204-6176
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Interests:
+  - Operations Research
+  - Predictive/statistical analysis
+  - Machine/deep learning
+  - Data visualization
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Data Science
+    institution: RATP group and Gustave Eiffel University
+    date_start: 2019-10-01
+    date_end: 2023-01-23
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis entitled _Analysis and prediction of pedestrian flows in a multimodal transport hub using multiple data sources_. Supervised by Senior Researchers Latifa Oukhellou and Allou-Badara Same.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://theses.hal.science/tel-04090167/document'
+  - area: MSc Data Science
+    institution: Claude Bernard Lyon 1 University
+    date_start: 2018-09-01
+    date_end: 2019-03-01
+  - area: Engineer's degree Bioinformatic and Modeling
+    institution: INSA Lyon
+    date_start: 2016-09-01
+    date_end: 2019-03-01
+  - area: BSc Biology and mathematics
+    institution: Pierre et Marie Curie University - Roscoff biological station
+    date_start: 2013-09-01
+    date_end: 2016-06-01	
+ 
+ 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Post doc researcher
+    company_name: Gustave Eiffel University - GRETTIA
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-04-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Working on MobiTIC ANR project, my work focus in:
+      - Data fusion for the estimation of dynamic multimodal Origin-Destination flows in a metropolitan area
+      - Discrete choice models for understanding where and how do people travel, depending on various attributes
+  - position: Research engineer (industrial Ph.d)
+    company_name: RATP group
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-10-01
+    date_end: 2023-01-23
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      In parallel with the thesis work:
+      - Technical support for RATP's general studies: congestion indicators, barometers of passenger numbers in transport areas.
+      - Supervision of a trainee as part of his final year of a master's program.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, R
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data analysis
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Data visualization
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: chart-scatter-plot
+      - name: Machine/deep learning
+        description: ''
+        percent: 40
+        icon: pytorch
+      - name: Literature Review & Bibliographic Research
+        description: ''
+        percent: 40
+        icon: book
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -132,55 +130,47 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Water Sports (Surf, Windsurf, Kite Surf)
+        percent: 90
+        icon: kitesurfing
+      - name: Running 
+        description: 'Completed the Paris Marathon in 2023.'
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+        icon: strava
+      - name: Writing
+        description: 'I enjoy writing articles. Check out my <a href="https://vulgarisation-science-et-monde-77.webselfsite.net/" target="_blank">blog</a>.'
+        percent: 70
+        icon: pen
+      - name: Music (Guitar & Electronic Composition)
+        description: 'Check out my <a href="https://soundcloud.com/paul-de-nailly" target="_blank">SoundCloud</a>.'
         percent: 80
-        icon: camera
+        icon: music
+        link: 'https://soundcloud.com/moncompte' # Remplacez par votre URL SoundCloud
+
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+awards :
+  - title: 'Big Data, méthodes et solutions pratiques pour analyser les données'
+    url: https://www.orsys.fr/formation-big-data-methodes-solutions-pratiques-pour-analyse-des-donnees.html
+    date: '2022-11-21'
+    awarder: orsys
+    icon: orsys
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Completed programme with certificate of achievement. Integrate massive volumes of structured and unstructured data using an ETL, then analyse them using statistical models and dynamic dashboards.
+  - title: 'Deep Learning School '
+    url: https://mila.quebec/en/news/the-6th-ivadomila-deep-learning-school-a-chance-to-stay-at-the-forefront-of-technological
+    date: '2021-04-01'
+    awarder: IVADO/Mila
+    icon: ivado
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Completed 5 weeks programme with certificate of achievement. Basics and terminology related to Deep Learning. How to identify the types of neural networks to use to solve different types of problems. Be familiar with Deep Learning libraries (Pytorch) through practical tutorial sessions.
 ---
 
-## About Me
+## About me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi ! I'm a post-doc researcher in the GRETTIA team at Gustave Eiffel University. My research interests focus on developing machine learning and statistical modeling applied on mobility data (mobile phone, smart cards, counts data, etc.). I am interested in the analysis/prediction of data using pre-existing methods or methods yet to be implemented, in a variety of fields such as transport, biology, meteorology, etc..

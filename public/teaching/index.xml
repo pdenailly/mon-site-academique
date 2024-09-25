@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Paul de Nailly</title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Prédiction probabiliste avec Python</title>
+      <link>http://localhost:1313/teaching/python/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/python/</guid>
+      <description>&lt;p&gt;Dans cette présentation, nous explorons un projet de prédiction probabiliste de séries temporelles multivariées en utilisant des modèles d&amp;rsquo;apprentissage profond. Le projet se concentre sur les données de mobilité pour prédire les mouvements futurs avec des incertitudes. Les modèles introduits utilisent une structure de type RNN qui projettent en sortie les paramètres de modèles de distributions (lois normales). Le cours associé au projet est disponible 
+.&lt;/p&gt;
+&lt;h2 id=&#34;projet-google-colab&#34;&gt;Projet Google Colab&lt;/h2&gt;
+&lt;p&gt;Le projet est disponible sur Google Colab et peut être consulté via le lien suivant :&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;Un code python disponible 
+ est nécessaire au projet.&lt;/p&gt;
+&lt;h2 id=&#34;description-du-projet&#34;&gt;Description du projet&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;objectif de ce projet est de démontrer comment utiliser les réseaux neuronaux récurrents (RNN) et d&amp;rsquo;autres modèles avancés pour la prédiction de séries temporelles. Voici les principales étapes couvertes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Préparation des données&lt;/strong&gt; : Traitement des séries temporelles multivariées.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modélisation&lt;/strong&gt; : Mise en œuvre des modèles probabilistes basés sur l&amp;rsquo;apprentissage profond.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Évaluation&lt;/strong&gt; : Analyse des performances des prédictions, y compris l&amp;rsquo;incertitude probabiliste.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;données&#34;&gt;Données&lt;/h2&gt;
+&lt;p&gt;Les données utilisées dans ce projet sont des comptages de traffic de vélos dans la ville de Paris, en plusieurs localisations.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
