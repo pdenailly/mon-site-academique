@@ -1,56 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Conferences | Paul de Nailly</title>
-    <link>https://pdenailly.github.io/mon-site-academique/talk/</link>
-      <atom:link href="https://pdenailly.github.io/mon-site-academique/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Conferences</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://pdenailly.github.io/mon-site-academique/media/icon_hu7729264130191091259.png</url>
-      <title>Conferences</title>
-      <link>https://pdenailly.github.io/mon-site-academique/talk/</link>
-    </image>
-    
-    <item>
-      <title>Deep probabilistic forecasting of count data in multimodal transport systems</title>
-      <link>https://pdenailly.github.io/mon-site-academique/talk/tsl/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://pdenailly.github.io/mon-site-academique/talk/tsl/</guid>
-      <description>&lt;p&gt;Predicting pedestrian flows in transportation areas is a major research topic that can be used to enrich passenger information for public transport passengers, who may thus better plan their trips. It can also be used by transport operators to regulate transport supply with regards to demand. Much of the work on user demand prediction focus on average predictions, and therefore cannot be used for uncertainty analysis.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conferences | Paul de Nailly</title><link>https://pdenailly.github.io/mon-site-academique/talk/</link><atom:link href="https://pdenailly.github.io/mon-site-academique/talk/index.xml" rel="self" type="application/rss+xml"/><description>Conferences</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>https://pdenailly.github.io/mon-site-academique/media/icon_hu7729264130191091259.png</url><title>Conferences</title><link>https://pdenailly.github.io/mon-site-academique/talk/</link></image><item><title>Deep probabilistic forecasting of count data in multimodal transport systems</title><link>https://pdenailly.github.io/mon-site-academique/talk/tsl/</link><pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate><guid>https://pdenailly.github.io/mon-site-academique/talk/tsl/</guid><description>&lt;p>Predicting pedestrian flows in transportation areas is a major research topic that can be used to enrich passenger information for public transport passengers, who may thus better plan their trips. It can also be used by transport operators to regulate transport supply with regards to demand. Much of the work on user demand prediction focus on average predictions, and therefore cannot be used for uncertainty analysis.
 However, this uncertainty is particularly appropriate in the transportation domain, where the risk of poorly managed high demand is to be avoided.
 We propose the implementation of probabilistic prediction models of passenger flows in a major multimodal transportation hub with methods based on deep learning. These models are able to model uncertainty by relying on an abstraction of contextual data and by assuming output distributions.
 We implement a new probabilistic prediction model based on deep learning, adding to the literature associated with these models. Our model learns a latent representation of the input data with the help of a recurrent neural network, and then translates it into multi-point passenger flow predictions with a &amp;ldquo;sum and shares&amp;rdquo; distribution, encountered in the literature.
-We compare this model with others from the state of the art, using open source data and data on the La Défense hub case study. Our model seems to better perform in specific situations where data present regularities.&lt;/p&gt;
-&lt;iframe src=&#34;https://drive.google.com/file/d/13bnIjhrBGK7wqkcwWuqihAbVG8BfL_3t/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>Applying a new &#39;sums and shares&#39; mixture model to pedestrian flows: the &#39;La Défense&#39; hub case study</title>
-      <link>https://pdenailly.github.io/mon-site-academique/talk/etc/</link>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://pdenailly.github.io/mon-site-academique/talk/etc/</guid>
-      <description>&lt;iframe src=&#34;https://drive.google.com/file/d/1h8pgFrtIhZOZp1TnJAAonUuZmKCI8qtP/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A &#39;sums and shares&#39; mixture model to study pedestrian flows within a multimodal transport hub</title>
-      <link>https://pdenailly.github.io/mon-site-academique/talk/tristan/</link>
-      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://pdenailly.github.io/mon-site-academique/talk/tristan/</guid>
-      <description>&lt;p&gt;This work focuses on a multimodal transportation hub that attracts an average of 140,000 people on a typical week day (2019). Passenger flows tend to form transportation routes towards areas of interest. However, depending on the time of day, the period of the year, or local events, these flows do not necessarily go to or transit through the same places. Several sensing systems positioned at different count locations in the transport hub allow multivariate count data to be collected. Extracting information from these large sets of highly noisy count series is challenging since these series share common dynamics in response to specific events, but may also have their own dynamics due to more localized events. Our goal in this paper is to model these mobility multivariate time series through a set of mobility patterns, to obtain a synthetic vision which helps understanding how the transport hub operates, or to use as a basis for prediction work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A combined use of sensor count data and smart card data to study the flows of a multimodal transport hub</title>
-      <link>https://pdenailly.github.io/mon-site-academique/talk/transit/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://pdenailly.github.io/mon-site-academique/talk/transit/</guid>
-      <description>&lt;iframe src=&#34;https://drive.google.com/file/d/1TxWvQGL0X_NDcHP8ZUs5FCIjjggAaYsx/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+We compare this model with others from the state of the art, using open source data and data on the La Défense hub case study. Our model seems to better perform in specific situations where data present regularities.&lt;/p>
+&lt;iframe src="https://drive.google.com/file/d/13bnIjhrBGK7wqkcwWuqihAbVG8BfL_3t/preview" width="100%" height="600px">&lt;/iframe></description></item><item><title>Applying a new 'sums and shares' mixture model to pedestrian flows: the 'La Défense' hub case study</title><link>https://pdenailly.github.io/mon-site-academique/talk/etc/</link><pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate><guid>https://pdenailly.github.io/mon-site-academique/talk/etc/</guid><description>&lt;iframe src="https://drive.google.com/file/d/1h8pgFrtIhZOZp1TnJAAonUuZmKCI8qtP/preview" width="100%" height="600px">&lt;/iframe></description></item><item><title>A 'sums and shares' mixture model to study pedestrian flows within a multimodal transport hub</title><link>https://pdenailly.github.io/mon-site-academique/talk/tristan/</link><pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate><guid>https://pdenailly.github.io/mon-site-academique/talk/tristan/</guid><description>&lt;p>This work focuses on a multimodal transportation hub that attracts an average of 140,000 people on a typical week day (2019). Passenger flows tend to form transportation routes towards areas of interest. However, depending on the time of day, the period of the year, or local events, these flows do not necessarily go to or transit through the same places. Several sensing systems positioned at different count locations in the transport hub allow multivariate count data to be collected. Extracting information from these large sets of highly noisy count series is challenging since these series share common dynamics in response to specific events, but may also have their own dynamics due to more localized events. Our goal in this paper is to model these mobility multivariate time series through a set of mobility patterns, to obtain a synthetic vision which helps understanding how the transport hub operates, or to use as a basis for prediction work.&lt;/p></description></item><item><title>A combined use of sensor count data and smart card data to study the flows of a multimodal transport hub</title><link>https://pdenailly.github.io/mon-site-academique/talk/transit/</link><pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate><guid>https://pdenailly.github.io/mon-site-academique/talk/transit/</guid><description>&lt;iframe src="https://drive.google.com/file/d/1TxWvQGL0X_NDcHP8ZUs5FCIjjggAaYsx/preview" width="100%" height="600px">&lt;/iframe></description></item></channel></rss>
