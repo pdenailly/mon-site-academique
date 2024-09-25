@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://paul_de_nailly_website.com/sitemap.xml
