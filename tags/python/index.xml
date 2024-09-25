@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python | Paul de Nailly</title>
-    <link>https://paul_de_nailly_website.com/tags/python/</link>
-      <atom:link href="https://paul_de_nailly_website.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pdenailly.github.io/mon-site-academique/tags/python/</link>
+      <atom:link href="https://pdenailly.github.io/mon-site-academique/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://paul_de_nailly_website.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://pdenailly.github.io/mon-site-academique/media/icon_hu7729264130191091259.png</url>
       <title>Python</title>
-      <link>https://paul_de_nailly_website.com/tags/python/</link>
+      <link>https://pdenailly.github.io/mon-site-academique/tags/python/</link>
     </image>
     
     <item>
       <title>Prédiction probabiliste avec Python</title>
-      <link>https://paul_de_nailly_website.com/teaching/python/</link>
+      <link>https://pdenailly.github.io/mon-site-academique/teaching/python/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://paul_de_nailly_website.com/teaching/python/</guid>
+      <guid>https://pdenailly.github.io/mon-site-academique/teaching/python/</guid>
       <description>&lt;p&gt;Dans cette présentation, nous explorons un projet de prédiction probabiliste de séries temporelles multivariées en utilisant des modèles d&amp;rsquo;apprentissage profond. Le projet se concentre sur les données de mobilité pour prédire les mouvements futurs avec des incertitudes. Les modèles introduits utilisent une structure de type RNN qui projettent en sortie les paramètres de modèles de distributions (lois normales). Le cours associé au projet est disponible 
 .&lt;/p&gt;
 &lt;h2 id=&#34;projet-google-colab&#34;&gt;Projet Google Colab&lt;/h2&gt;

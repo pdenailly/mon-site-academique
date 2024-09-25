@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://paul_de_nailly_website.com/sitemap.xml
+Sitemap: https://pdenailly.github.io/mon-site-academique/sitemap.xml
